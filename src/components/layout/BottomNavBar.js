@@ -6,7 +6,7 @@ function BottomNavBar(props) {
     <footer>
       <ul>
         <Link to="/">
-          <img src={require("./src/pages/home.png")} alt="home" />
+          <img src={require("./home.png")} alt="home" />
           <div>Home</div>
         </Link>
         <Link to="/">

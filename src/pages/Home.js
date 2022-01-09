@@ -37,7 +37,7 @@ function HomePage() {
       <div className="guide-duration2">7hrs 15mins</div>
       <button className="button2">Set Alarm</button>
 
-      <BottomNavBar home={require("./home.png")} />
+      <BottomNavBar home={require("../components/layout/home.png")} />
     </div>
   );
 }
