@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  position: relative;
+  width: 375px;
+  height: 812px;
+
+  background: #ffffff;
+}
+
+.welcomeTitle {
+  position: absolute;
+  width: 89px;
+  height: 26px;
+  left: 143px;
+  top: 336px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 25px;
+
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #526dfc;
+}
+
+.welcomeText {
+  position: absolute;
+  width: 305px;
+  height: 105px;
+  left: 35px;
+  top: 376px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 35px;
+
+  /* or 159% */
+  text-align: center;
+
+  color: #676767;
+}
+
+.button {
+  position: absolute;
+  width: 305px;
+  height: 50px;
+  left: 35px;
+  top: 660px;
+  
+  background: #526DFC;
+  border-radius: 6px;
+}
+
+.buttonText {
+  position: absolute;
+  width: 99px;
+  height: 26px;
+  left: 141px;
+  top: 672px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 25px;
+
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.signinMsg {
+  position: absolute;
+  width: 305px;
+  height: 21px;
+  left: 35px;
+  top: 730px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+
+  /* identical to box height */
+  text-align: center;
+
+  color: #676767;
+}
+
+.signin {
+  color: #526DFC;
+}
