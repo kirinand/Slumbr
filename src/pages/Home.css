@@ -1,0 +1,258 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600");
+
+.container {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  background: #ffffff;
+}
+
+.hello {
+  position: absolute;
+  width: 305px;
+  height: 35px;
+  left: 35px;
+  top: 80px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 35px;
+
+  color: #526dfc;
+}
+
+.customize {
+  position: absolute;
+  width: 305px;
+  height: 35px;
+  left: 35px;
+  top: 122px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 35px;
+  /* identical to box height, or 250% */
+
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #676767;
+}
+
+.music {
+  position: absolute;
+  width: 305px;
+  height: 80px;
+  left: 35px;
+  top: 159px;
+
+  border: 1px solid #e6e8e8;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+.music-icon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 55px;
+  top: 179px;
+  background-color: #526dfc;
+  border-radius: 50%;
+}
+
+.music-name {
+  position: absolute;
+  width: 150px;
+  height: 21px;
+  left: 105px;
+  top: 171px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 35px;
+
+  color: rgba(103, 103, 103, 0.5);
+}
+
+.music-subName {
+  position: absolute;
+  width: 230px;
+  height: 35px;
+  left: 105px;
+  top: 191px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 35px;
+
+  color: #676767;
+}
+
+.music-duration {
+  position: absolute;
+  width: 37px;
+  height: 21px;
+  left: 282px;
+  top: 171px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 35px;
+
+  color: rgba(103, 103, 103, 0.5);
+}
+
+.exercise {
+  position: absolute;
+  width: 305px;
+  height: 35px;
+  left: 35px;
+  top: 257px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 35px;
+  /* identical to box height, or 250% */
+
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #676767;
+}
+
+.guides {
+  position: absolute;
+  width: 305px;
+  height: 35px;
+  left: 35px;
+  top: 502px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 35px;
+  /* identical to box height, or 250% */
+
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #676767;
+}
+
+.guide-title1 {
+  position: absolute;
+  width: 230px;
+  height: 35px;
+  left: 37px;
+  top: 554px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 35px;
+  /* identical to box height, or 292% */
+
+  color: rgba(103, 103, 103, 0.5);
+}
+
+.guide-duration1 {
+  position: absolute;
+  width: 230px;
+  height: 21px;
+  left: 37px;
+  top: 581px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 35px;
+
+  color: #676767;
+}
+
+.button1 {
+  position: absolute;
+  width: 125px;
+  height: 50px;
+  left: 215px;
+  top: 561px;
+
+  background: #526dfc;
+  border-radius: 6px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 25px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.guide-title2 {
+  position: absolute;
+  width: 230px;
+  height: 35px;
+  left: 37px;
+  top: 648px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 35px;
+
+  color: rgba(103, 103, 103, 0.5);
+}
+
+.guide-duration2 {
+  position: absolute;
+  width: 230px;
+  height: 21px;
+  left: 37px;
+  top: 675px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 35px;
+  /* or 206% */
+
+  color: #676767;
+}
+
+.button2 {
+  position: absolute;
+  width: 125px;
+  height: 50px;
+  left: 215px;
+  top: 655px;
+
+  background: #526dfc;
+  border-radius: 6px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 25px;
+
+  color: #ffffff;
+}

@@ -1,0 +1,58 @@
+footer {
+  position: absolute;
+  width: 375px;
+  height: 82px;
+  left: 0px;
+  top: 730px;
+
+  background: #191d33;
+}
+
+.group-210 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 329px;
+}
+
+.home {
+  align-items: flex-start;
+  display: flex;
+  min-width: 30px;
+}
+
+.overlap-group {
+  height: 50px;
+  position: relative;
+  width: 28px;
+}
+
+.vector {
+  height: 22px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.learn {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-left: 41px;
+  min-width: 32px;
+}
+
+.overlap-group2 {
+  height: 49px;
+  position: relative;
+  width: 30px;
+}

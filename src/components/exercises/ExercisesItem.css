@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600");
+li {
+  list-style: none;
+}
+
+.m1 {
+  position: absolute;
+  width: 140px;
+  height: 190px;
+  left: 35px;
+  top: 294px;
+  border-radius: 10px;
+}
+
+.m2 {
+  position: absolute;
+  width: 140px;
+  height: 190px;
+  left: 189px;
+  top: 294px;
+  border-radius: 10px;
+}
+
+.Morning {
+  position: absolute;
+  width: 140px;
+  height: 35px;
+  left: 35px;
+  top: 449px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.Afternoon {
+  position: absolute;
+  width: 140px;
+  height: 35px;
+  left: 189px;
+  top: 449px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 35px;
+  /* identical to box height, or 318% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.line {
+  position: absolute;
+  width: 305px;
+  height: 0px;
+  left: 35px;
+  top: 633px;
+
+  border: 1px solid rgba(103, 103, 103, 0.2);
+}
